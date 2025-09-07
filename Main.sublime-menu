@@ -1,0 +1,16 @@
+[
+    {
+        "id": "tools",
+        "children": [
+            { "caption": "-" },
+            {
+                "caption": "Scroll to Text in Browser",
+                "command": "scroll_to_text"
+            },
+            {
+                "caption": "Test Browser Connection",
+                "command": "scroll_to_text_test"
+            }
+        ]
+    }
+]

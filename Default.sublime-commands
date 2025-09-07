@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "ScrollToText: Scroll to Text in Browser",
+        "command": "scroll_to_text"
+    },
+    {
+        "caption": "ScrollToText: Test Browser Connection", 
+        "command": "scroll_to_text_test"
+    }
+]

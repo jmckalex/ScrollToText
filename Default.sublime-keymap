@@ -1,0 +1,13 @@
+[
+    {
+        "keys": ["super+shift+f"],
+        "command": "scroll_to_text",
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "text.html.markdown" }
+        ]
+    },
+    {
+        "keys": ["super+shift+alt+f"],
+        "command": "scroll_to_text_test"
+    }
+]
